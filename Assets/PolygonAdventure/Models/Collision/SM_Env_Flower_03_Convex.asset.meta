@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e93f62ad80ee884281f5702a06a103e
+timeCreated: 1579813327
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Env_Flower_03_Convex.asset
+  uploadId: 645438

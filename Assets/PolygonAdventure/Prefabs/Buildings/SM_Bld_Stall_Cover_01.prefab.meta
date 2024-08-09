@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0fad32790a1dbe44294d7ad7a66b4258
+timeCreated: 1484281215
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Buildings/SM_Bld_Stall_Cover_01.prefab
+  uploadId: 645438

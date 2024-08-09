@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b9ee8d20c8c4c84f95499978c6e7d04
+timeCreated: 1484281206
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_016.prefab
+  uploadId: 645438

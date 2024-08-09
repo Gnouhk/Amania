@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d099d812b220e3343bdcc5c7397dbece
+timeCreated: 1579812943
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Env_DirtMound_01_Convex
+    1.asset
+  uploadId: 645438

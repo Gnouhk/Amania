@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41eecca970d040b48b10b3a4d737a0a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Scenes/DemoSettings.lighting
+  uploadId: 645438

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba790c6fd6f7ab24d88313172ed55d92
+timeCreated: 1484281219
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Weapons/SM_Wep_Pitchfork_01.prefab
+  uploadId: 645438

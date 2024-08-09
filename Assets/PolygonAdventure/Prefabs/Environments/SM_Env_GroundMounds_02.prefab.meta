@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3d61384a7c74304bb7688b43a03c395
+timeCreated: 1484281208
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_GroundMounds_02.prefab
+  uploadId: 645438

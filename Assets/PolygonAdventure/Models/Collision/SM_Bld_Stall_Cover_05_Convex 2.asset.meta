@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b8510694aa233064193b026306714fb5
+timeCreated: 1579756033
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Bld_Stall_Cover_05_Convex
+    2.asset
+  uploadId: 645438

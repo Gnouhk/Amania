@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1b4081d72179bbc4396520272e962413
+timeCreated: 1579816372
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Env_Bridge_01_Convex 1.asset
+  uploadId: 645438

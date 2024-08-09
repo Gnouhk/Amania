@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a420ee373d682974b8b6ac151f3fd475
+timeCreated: 1579814720
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Prop_Barrel_02_Convex 4.asset
+  uploadId: 645438

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a704f1dd0e466044580391690af7f112
+timeCreated: 1484281217
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_Hill_02.prefab
+  uploadId: 645438

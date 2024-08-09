@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3940e01daa6f72f4194d3d19b183db2b
+timeCreated: 1579819283
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Env_GroundMounds_08_Convex
+    1.asset
+  uploadId: 645438

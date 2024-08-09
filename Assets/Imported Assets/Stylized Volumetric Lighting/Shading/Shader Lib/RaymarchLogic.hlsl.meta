@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65e56e7ff6c6ae0419c39b8ea4ff8b5f
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283681
+  packageName: Stylized Volumetric Lighting
+  packageVersion: 1.0
+  assetPath: Assets/Stylized Volumetric Lighting/Shading/Shader Lib/RaymarchLogic.hlsl
+  uploadId: 666218

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bddadfa1910975c49913f0e7de5f535e
+timeCreated: 1484281203
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Items/SM_Item_Waterskin_01.prefab
+  uploadId: 645438

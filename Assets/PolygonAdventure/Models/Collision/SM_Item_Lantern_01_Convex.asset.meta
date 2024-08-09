@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b4342993aad4510459b9c9f19ddf1833
+timeCreated: 1579814412
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Item_Lantern_01_Convex.asset
+  uploadId: 645438

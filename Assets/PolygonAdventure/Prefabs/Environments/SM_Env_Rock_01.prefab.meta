@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb41b397ae98ccd49b54ad4b2a69a48e
+timeCreated: 1484281215
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_01.prefab
+  uploadId: 645438

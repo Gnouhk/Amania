@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69a1ff74e5e238140a000e829c164d57
+timeCreated: 1484281211
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_Lillypads_01.prefab
+  uploadId: 645438

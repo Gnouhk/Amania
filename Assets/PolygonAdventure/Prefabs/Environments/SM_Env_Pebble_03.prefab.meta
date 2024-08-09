@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22fe377b1d631ae4fb1b79c0bed36c2d
+timeCreated: 1484281203
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_Pebble_03.prefab
+  uploadId: 645438

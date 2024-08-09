@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 706185c42c0a7ae45b2fbee51bfcd071
+timeCreated: 1579812613
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Env_Tree_04_Snow_Convex.asset
+  uploadId: 645438

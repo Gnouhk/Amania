@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 193fe2f94b959f84e8ab2fa84babbdb3
+timeCreated: 1484514007
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_Stream_Corner_01_Snow.prefab
+  uploadId: 645438

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dac2afd5e1dda1c4d9fe05cf141b47f0
+timeCreated: 1484187834
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Characters/Character_Knight_White.prefab
+  uploadId: 645438

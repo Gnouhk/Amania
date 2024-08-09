@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 49e615e3303018149824c9753c3a8093
+timeCreated: 1579817951
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Env_Stream_Corner_01_Snow_Convex
+    3.asset
+  uploadId: 645438

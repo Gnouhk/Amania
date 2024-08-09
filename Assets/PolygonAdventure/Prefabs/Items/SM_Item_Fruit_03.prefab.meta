@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92cdc20b94af1c643803dbd969745146
+timeCreated: 1484281210
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Items/SM_Item_Fruit_03.prefab
+  uploadId: 645438

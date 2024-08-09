@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aff586f492d4c77498328dc57b176dfe
+timeCreated: 1484708146
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_Ice_02.prefab
+  uploadId: 645438

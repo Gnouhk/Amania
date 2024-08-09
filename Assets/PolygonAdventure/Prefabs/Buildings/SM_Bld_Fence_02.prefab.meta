@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d66c89601ce96d4419ce36a4dce3c401
+timeCreated: 1484281213
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Buildings/SM_Bld_Fence_02.prefab
+  uploadId: 645438

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08d9e7899d5dc7740805a597bfe30058
+timeCreated: 1484514007
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_05_Snow.prefab
+  uploadId: 645438

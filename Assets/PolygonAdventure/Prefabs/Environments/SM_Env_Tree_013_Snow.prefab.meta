@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a252453784235fe4ea7bd328a1db47c3
+timeCreated: 1484514005
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_013_Snow.prefab
+  uploadId: 645438

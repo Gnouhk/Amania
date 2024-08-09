@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3d866d357c76ed5408e2d6fc85fbd34d
+timeCreated: 1579815237
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Wep_GreatAxe_01_Convex 1.asset
+  uploadId: 645438

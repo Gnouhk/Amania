@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 291c8d04a7462d942850d90230c2bfe5
+timeCreated: 1579755648
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Models/Collision/SM_Bld_Village_05_Convex.asset
+  uploadId: 645438

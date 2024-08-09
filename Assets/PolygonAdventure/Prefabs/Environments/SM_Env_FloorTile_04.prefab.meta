@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7527293ca015a324d9a5a3fec600da4b
+timeCreated: 1484281213
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80585
+  packageName: POLYGON Adventure - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonAdventure/Prefabs/Environments/SM_Env_FloorTile_04.prefab
+  uploadId: 645438
