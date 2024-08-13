@@ -6,25 +6,17 @@ public class Player : MonoBehaviour
     public Camera playerCamera;
 
     [Header("Movement")]
+    public float speed = 200f;
+    public float rotationSpeed = 10f;
+    public float uprightSpeed = 5f; // Speed for returning to upright position
+    public float jumpForce = 5f;    // The force applied when jumping
+
     float vertical;
     float horizontal;
-
-    float verticalRaw;
-    float horizontalRaw;
-
-    Vector3 targetRotation;
-
-    public float rotationSpeed = 10;
-    public float speed = 200f;
 
     private void Start()
     {
         player = GetComponent<Rigidbody>();
-    }
-
-    private void Update()
-    {
-
     }
 
     private void FixedUpdate()
@@ -32,30 +24,39 @@ public class Player : MonoBehaviour
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
 
-        horizontalRaw = Input.GetAxisRaw("Horizontal");
-        verticalRaw = Input.GetAxisRaw("Vertical");
+        // Use the camera's direction for movement
+        Vector3 forward = playerCamera.transform.forward;
+        Vector3 right = playerCamera.transform.right;
+        forward.y = 0;
+        right.y = 0;
+        forward.Normalize();
+        right.Normalize();
 
-        Vector3 input = new Vector3(horizontal, 0, vertical);
-        Vector3 inputRaw = new Vector3(horizontalRaw, 0, verticalRaw);
+        Vector3 direction = forward * vertical + right * horizontal;
 
-        if (input.sqrMagnitude > 1f)
+        if (direction.sqrMagnitude > 1f)
         {
-            input.Normalize();
+            direction.Normalize();
         }
 
-        if (inputRaw.sqrMagnitude > 1f)
+        // Move player
+        Vector3 velocity = direction * speed * Time.deltaTime;
+        velocity.y = player.linearVelocity.y; // Maintain existing y-velocity (for gravity and jumps)
+
+
+        player.linearVelocity = velocity;
+
+        // Rotate player to face movement direction
+        if (direction != Vector3.zero)
         {
-            inputRaw.Normalize();
+            Vector3 targetRotation = Quaternion.LookRotation(direction).eulerAngles;
+            player.rotation = Quaternion.Slerp(player.rotation, Quaternion.Euler(0, targetRotation.y, 0), Time.deltaTime * rotationSpeed);
         }
-
-        if (inputRaw != Vector3.zero)
+        else
         {
-            targetRotation = Quaternion.LookRotation(input).eulerAngles;
+            // Smoothly transition back to upright when not moving
+            Quaternion uprightRotation = Quaternion.Euler(0, player.rotation.eulerAngles.y, 0);
+            player.rotation = Quaternion.Slerp(player.rotation, uprightRotation, Time.deltaTime * uprightSpeed);
         }
-
-        player.rotation = Quaternion.Slerp(transform.rotation, Quaternion.Euler(targetRotation.x, Mathf.Round(targetRotation.y / 45) * 45, targetRotation.z), Time.deltaTime * rotationSpeed);
-
-        Vector3 vel = input * speed * Time.deltaTime;
-        player.linearVelocity = new Vector3(vel.x, player.linearVelocity.y, vel.z);
     }
 }
